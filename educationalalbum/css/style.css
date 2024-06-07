@@ -1,10 +1,8 @@
 /*
-  Template Name: Daily Shop
-  Author : MarkUps
-  Author URI: http://www.markups.io/
-  Version: 1.0
-  Tags: light, white, ecommerce, online store, multi page, custom-colors, Bootstrap, responsive, html5, css3, Sass, template, web template
-
+  Template Name:
+  Author : 
+  Author URI: 
+  Version: 
 */
 
 /* Table of Content
@@ -32,13 +30,14 @@
 #ERROR  PAGE
 #FOOTER SECTION
 #RESPONSIVE DESIGN
+==================================================
 */
 
 * {
     box-sizing: border-box;
   }
 
- /*########## Large devices only ##########*/
+ /*########## For Large devices only ##########*/
   @media (min-width: 992px) {
     .col-lg-4 {
         float: left;
@@ -46,7 +45,7 @@
     }
   }
 
-  /*########## Medium devices only ##########*/
+  /*########## For Medium devices only ##########*/
   @media (min-width: 768px) and (max-width: 991px) {
     .col-md-6,.col-md-12 {
       float: left;
@@ -64,7 +63,7 @@
     }
   }
  
-  /*########## Small devices only ##########*/ 
+  /*########## For Small devices only ##########*/ 
   @media (min-width: 0px) and (max-width: 767px) {
     .col-sm-12 {
         float: left;

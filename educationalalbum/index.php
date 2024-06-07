@@ -16,7 +16,7 @@
       <style> 
         body  {
           /*outline: 2px solid block;*/
-          background-image:  url('/family/pkr.jpg'), url('family/mspr.jpg');
+          background-image:  url('/educationalalbum/pkr.jpg'), url('educationalalbum/mspr.jpg');
           background-color: powderblue;/*#cccccc;*/
           background-size: cover;
           background-repeat: no-repeat;

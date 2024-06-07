@@ -4,8 +4,8 @@ background-image: url('http://getwallpapers.com/wallpaper/full/a/5/d/544750.jpg'
 @import url('https://fonts.googleapis.com/css?family=Numans');
 */
 html,body{
-/*background-image: url('family/pkr.jpg');*//
-background-image: url('/family/pkr.jpg');
+/*background-image: url('educationalalbum/pkr.jpg');*//
+background-image: url('/educationalalbum/pkr.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 height: 100%;
@@ -70,6 +70,28 @@ height: 20px;
 margin-left: 15px;
 margin-right: 5px;
 }
+
+/* #FAAA16; Dark Tangerine
+   #FF8F29; Deep Saffron
+   #48BF91; Ocean Green
+   #7AE582; Lightgreen
+   #FD6A02; TIGER
+*/
+.button {
+  background-color: #FD6A02; /* TIGER */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  /*margin: 4px 2px;*/
+  cursor: pointer;
+  width: 200px;
+}
+
+.button2 {background-color: blue;} /* #E5B80B Pure Gold */
 
 .login_btn{
 color: black;
