@@ -43,6 +43,7 @@ body {
 .btn {
 	background-color: #FD6A02; /* TIGER */
 	position: absolute;
+	top: 0;
 	bottom: -80px;
 	border: none;
 	padding: 10px 20px;
@@ -56,8 +57,7 @@ body {
                   /*#7AE582; /*Lightgreen*/ 
   border: none;
   color: white;
-  /*padding: 15px 32px;*/
-  padding: 10px 20px;
+  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
