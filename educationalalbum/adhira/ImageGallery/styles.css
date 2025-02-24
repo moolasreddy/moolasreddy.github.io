@@ -1,5 +1,6 @@
 body {
 	margin: 0;
+	top: 0;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -43,7 +44,6 @@ body {
 .btn {
 	background-color: #FD6A02; /* TIGER */
 	position: absolute;
-	top: 0;
 	bottom: -80px;
 	border: none;
 	padding: 10px 20px;
